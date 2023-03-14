@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7dcc3e0224054dec820eeaddcbaad63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Ball: {instanceID: 0}
+  - PosDribble: {instanceID: 0}
+  - PosOverHead: {instanceID: 0}
+  - Arms: {instanceID: 0}
+  - Target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
